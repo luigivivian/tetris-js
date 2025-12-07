@@ -15,7 +15,7 @@ Arraste e solte peças de tetris em uma grade 8x8. Complete linhas horizontais o
 
 1. Clone ou navegue até o diretório do projeto:
 ```bash
-cd /Users/luigivivian/nodeDev/tetris-game
+cd /tetris-game
 ```
 
 2. Instale as dependências:
